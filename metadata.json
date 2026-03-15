@@ -1,0 +1,5 @@
+{
+  "name": "Keep Notes Clone",
+  "description": "A web application for taking notes, similar to Google Keep or Trello.",
+  "requestFramePermissions": []
+}
